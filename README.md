@@ -1,181 +1,49 @@
-Vídeos da sessão vídeos:
 
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/pA-EgOaF23I" title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Qual é o melhor hardware para programação com Mario Souto</h3>
-                <p>236 mil visualizações - Há 8 dias</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/OrnUhR41MYI"
-                title="Voltando ao mercado após a maternidade: Ana Silvério" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Voltando ao mercado após a maternidade: Ana Silvério</h3>
-                <p>618 visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/YhnNOTde2I0"
-                title="Mercado de Trabalho | Desmistificando Mobile - Episódio 5" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Mercado de Trabalho | Desmistificando Mobile...</h3>
-                <p>1,1 mil visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/y8FeZMv37WU" title="Conhecendo a linguagem Go | Hipsters.Talks"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Conhecendo a linguagem Go | Hipsters.Talks</h3>
-                <p>3 mil visualizações - Há 3 meses</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/fmu1LQvZhms"
-                title="Desmistificando mobile- Linguagens e Frameworks - Episódio 2" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Desmistificando mobile- Linguagens e Frameworks</h3>
-                <p>1,5 mil visualizações - Há 2 meses</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/jpuJ1qrluoU"
-                title="Orientação a objetos com Roberta Arcoverde | #HipstersPontoTube" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Orientação a objetos com Roberta Arcoverde | #Hipster...</h3>
-                <p>30 mil visualizações - Há 3 meses</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/2HhPcadvjqU"
-                title="Tire suas dúvidas sobre o bootcamp de Data Science." frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Tire suas dúvidas sobre o bootcamp de Data Science...</h3>
-                <p>1,6 mil visualizações - Transmitido há 6 meses</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/h83e1aAM5xQ" title="
-                4:06
-                TOCANDO AGORA
-                Linguagens e ferramentas usadas em Ciência de Dados | Universo Data Science - Episódio 3"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Linguagens e ferramentas usadas em Ciência de Dados...</h3>
-                <p>2,5 mil visualizações - Há 9 dias</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/CnB3eLTrkn4"
-                title="Reencontrando a paixão por programar: Beatriz Ramerindo" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Reencontrando a paixão por programar: Beatriz Ramerindo</h3>
-                <p>1,2 mil visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/vf9P_PycgRw"
-                title="Híbridos: Flutter e React Native | Desmistificando Mobile - Episódio 4" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Híbridos: Flutter e React Native | Desmistificando...</h3>
-                <p>1,6 mil visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/Nts3P35mHzE"
-                title="Data Science na prática- com Jéssika Ribeiro do Grupo Boticário | Universo Data Science - Episódio 4"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Data Science na prática- com Jéssika Ribeiro do Grupo...</h3>
-                <p>3,2 mil visualizações - Há 7 dias</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/HBVCsBtsmzA" title="baNaNa | Memes do JavaScript - Episódio 2"
-                frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>baNaNa | Memes do JavaScript #2</h3>
-                <p>1,2 mil visualizações - Há 5 dias</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/SyEdlBSw11k"
-                title="Aniversário da Casa do Código | 10 anos da sua editora de Tecnologia" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Aniversário da Casa do Código | 10 anos da sua editora de...</h3>
-                <p>1,3 mil visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/FKYBCl_I9zU"
-                title="Jetpack Compose: Estados e animações | #AluraMais" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Jetpack Compose: Estados e animações</h3>
-                <p>1,6 mil visualizações - Há 8 dias</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/68EGCA67g_A"
-                title="[Casa do Código] Lançamento do Livro Certificação Linux" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>[Casa do Código] Lançamento do Livro Certificação Linux</h3>
-                <p>1,2 mil visualizações - Há 1 mês</p>
-            </div>
-        </li>
-        <li class="videos__item">
-            <iframe width="100%"  height="72%" src="https://www.youtube.com/embed/VHxoyduIt18"
-                title="Por que o JavaScript é assim? | Memes do JavaScript - Episódio 1" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowfullscreen></iframe>
-            <div class="descricao-video">
-                <img src="./img/videos/Ellipse 11.png" alt="Logo do canal Alura Cursos Online">
-                <h3>Por que o JavaScript é assim? | Memes JavaScript #01</h3>
-                <p>2,3 mil visualizações - Há 2 dias</p>
-            </div>
-        </li>
+# CSS: Flexbox e layouts responsivos
+
+Página inicial da Alura Play.
+
+## 🔨 Funcionalidades do Projeto
+
+A página possui um cabeçalho, um menu lateral, uma lista de vídeos, e um rodapé.
+
+## ✔️ Técnicas e Tecnologias Utilizadas
+
+As principais técnicas e tecnologias utilizadas neste projeto são:
+
+- **`HTML`**: Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.
+- **`CSS`**: Utilizado para estilizar a apresentação da página web.
+  - **`CSS Flexbox`**: Utilizado para organizar elementos de forma flexível e responsiva, garantindo um layout moderno e adaptável. Abaixo estão os principais atributos utilizados do Flexbox:
+    - **`display: flex`**: Define um elemento como um container flexível, ativando as propriedades Flexbox para os elementos filhos.
+    - **`flex-direction`**: Define a direção principal do layout dos itens flexíveis.
+    - **`justify-content`**: Alinha os itens ao longo do eixo principal (horizontal por padrão).
+    - **`align-items`**: Alinha os itens ao longo do eixo transversal (vertical por padrão).
+    - **`align-content`**: Alinha várias linhas de itens flexíveis quando há espaço extra no eixo transversal. Funciona quando há múltiplas linhas (com `flex-wrap`).
+    - **`flex-wrap`**: Define se os itens devem ou não quebrar para a próxima linha.
+    - **`flex-flow`**: Combina `flex-direction` e `flex-wrap` em uma única propriedade.
+    - **`order`**: Define a ordem dos itens dentro do container flexível.
+    - **`flex-grow`**: Define a capacidade de um item flexível de crescer, ocupando o espaço disponível.
+    - **`flex-shrink`**: Define a capacidade de um item de encolher caso necessário.
+    - **`flex-basis`**: Define o tamanho inicial do item antes de o espaço disponível ser distribuído.
+    - **`flex`**: Combina `flex-grow`, `flex-shrink` e `flex-basis` em uma única propriedade para maior simplicidade.
+    - **`align-self`**: Permite modificar o alinhamento de um item específico, substituindo o valor definido em `align-items` para aquele item.
+  - **`CSS Grid`**: Utilizado para organizar elementos de forma flexível e responsiva, garantindo um layout moderno e adaptável. Abaixo estão os principais atributos utilizados do Grid:
+    - **`grid-template-columns`**: Define o número de colunas e suas larguras.
+    - **`grid-area`**: Nomeação de áreas específicas do grid para layout personalizado.
+
+Esses atributos são essenciais para criar um layout flexível, garantindo que a página seja responsiva e adaptável a diferentes tamanhos de tela e dispositivos.
+
+## 📁 Acesso ao Projeto
+
+Você pode [acessar o código-fonte do projeto inicial](https://github.com/monicahillman/3992-css-grid/tree/projeto-base) ou [baixá-lo](https://github.com/monicahillman/3992-css-grid/archive/refs/heads/projeto-base.zip).
+
+## 🛠️ Como Abrir e Rodar o Projeto
+
+Após baixar o projeto, você pode abri-lo no Visual Studio Code. Para isso, siga os passos abaixo:
+
+1. No menu superior do VS Code, clique em:
+   * **File > Open Folder** (ou uma opção similar).
+2. Procure o local onde o projeto foi salvo e selecione a pasta (se o projeto foi baixado como um arquivo ZIP, será necessário extraí-lo antes).
+3. Clique em **OK**.
+
+Após finalizar esses passos, você pode executar a aplicação usando a extensão **Live Server** 🏆. Isso facilitará a visualização do projeto em seu navegador e garantirá que as alterações sejam refletidas automaticamente.

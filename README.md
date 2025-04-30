@@ -35,7 +35,7 @@ Esses atributos são essenciais para criar um layout flexível, garantindo que a
 
 ## 📁 Acesso ao Projeto
 
-Você pode [acessar o código-fonte do projeto inicial](https://github.com/nana-ferreira/aluraplay/tree/main).
+Você pode [acessar o código-fonte do projeto](https://github.com/nana-ferreira/aluraplay/tree/main).
 
 ## 🛠️ Como Abrir e Rodar o Projeto
 

@@ -29,7 +29,7 @@ As principais técnicas e tecnologias utilizadas neste projeto são:
     - **`align-self`**: Permite modificar o alinhamento de um item específico, substituindo o valor definido em `align-items` para aquele item.
   - **`CSS Grid`**: Utilizado para organizar elementos de forma flexível e responsiva, garantindo um layout moderno e adaptável. Abaixo estão os principais atributos utilizados do Grid:
     - **`grid-template-columns`**: Define o número de colunas e suas larguras.
-    - **`grid-areas`**: Define o número de colunas e suas larguras.
+    - **`grid-area`**: Nomeação de áreas específicas do grid para layout personalizado.
 
 Esses atributos são essenciais para criar um layout flexível, garantindo que a página seja responsiva e adaptável a diferentes tamanhos de tela e dispositivos.
 
